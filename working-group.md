@@ -11,12 +11,12 @@ Standardize Web 3.0 concepts: embedding 3rd party web applications into web page
 1. Embedding into page convention via WebComponent interface
 2. Content insulation including JS scope( document, window, local storage, cookies,etc), CSS scope
 3. CMS component concept
-   1. embedding and identifying the component on page via API and URL
-   2. preserving the state
-   3. configuration for app, page, instance.
-   4. API for preserving state and config
-   5. implementation of API above on client side, server-side reference implementation
-   6. API for ACL, reference implementation for client side
+   * embedding and identifying the component on page via API and URL
+   * preserving the state
+   * configuration for app, page, instance.
+   * API for preserving state and config
+   * implementation of API above on client side, server-side reference implementation
+   * API for ACL, reference implementation for client side
 
 # The need
 
