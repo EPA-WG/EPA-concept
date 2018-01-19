@@ -40,7 +40,7 @@ Simulated _window_ and _document_ could be bound to ShadowRoot of EPA.
 **CMS features** to be defined based on modern CMS patterns.
 
 # Help Needed
-Join the effort for <embed-page> WebComponent (link TBD) as POC for Embeddable Progressive Web Application and EPA work group(link TBD) for W3C proposal.
+Join the effort for <[embed-page](/EPA-WG/embed-page)> WebComponent as POC for Embeddable Progressive Web Application and [EPA working group](./working-group.md) for W3C proposal.
 
 The _OSS foundation_ to support the initiative TBD. 
 
