@@ -44,4 +44,10 @@ Join the effort for <embed-page> WebComponent (link TBD) as POC for Embeddable P
 
 The _OSS foundation_ to support the initiative TBD. 
 
-Ideas appreciated.
+## Ideas appreciated. 
+Please create a ticket to start a thread.
+
+# Links
+[Working Group](./working-group.md)
+[Contribution guidelines for this project](./CONTRIBUTING.md)
+
