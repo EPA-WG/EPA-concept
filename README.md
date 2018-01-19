@@ -48,6 +48,6 @@ The _OSS foundation_ to support the initiative TBD.
 Please create a ticket to start a thread.
 
 # Links
-[Working Group](./working-group.md)
-[Contribution guidelines for this project](./CONTRIBUTING.md)
+* [Working Group](./working-group.md)
+* [Contribution guidelines](./CONTRIBUTING.md)
 
