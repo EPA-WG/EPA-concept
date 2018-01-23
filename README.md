@@ -50,4 +50,5 @@ Please create a ticket to start a thread.
 # Links
 * [Working Group](./working-group.md)
 * [Contribution guidelines](./CONTRIBUTING.md)
+* <[embed-page](/EPA-WG/embed-page)> proof of concept as WebComponent
 
