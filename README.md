@@ -10,6 +10,7 @@ More than decade ago Java Portal have solved similar problem by unifying as UI a
 3rd party apps are implemented in different frameworks in most cases not compatible when served alongside with other apps on same page. Which does not fit into concept of Portlet anymore.
 
 # Embeddable Progressive Web Application concept.
+As implementation of [microapplication](./microapplication.md) concept,
 EPA is a WebComponent for embedding 3rd party site content, insulation of context (js, css, dom), and API for interaction with container (page or another EPA). From insulation point of view, it is like IFRAME except it is included into container dom. From integration side, the EPA or derived component can act as within embedded app content as with own content as WebComponent.
 
 # Client side CMS convention
