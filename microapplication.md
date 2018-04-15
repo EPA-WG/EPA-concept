@@ -1,4 +1,5 @@
-#Microapplication as extension of microservice concept
+# Microapplication as extension of microservice concept
+
 In Web 3.0 world the application comprize multiple services originated from different vendors. 
 It is needed as for application vendor to help monetizing the application 
 as for customers to consume various helpful or simply fun features like sharing, keeping notes, and zillion others.
