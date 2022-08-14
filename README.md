@@ -1,7 +1,7 @@
 # EPA-concept
 Embeddable Progressive Application Working Group for WebComponent for embedding 3rd party web and native apps into HTML page.
 
-What would be the proper framework for modern Web 3.0 app? The answer is none. The richness of frameworks and their quality, chaning the popularity over time does not allow to pick winning as any best one at the particular time frame will be replaced with newer soon enough. The Embeddable Progressive Web Application(EPA) seems to be the answer to make web compatible with multiple apps of different vendors, frameworks and their revisions.
+What would be the proper framework for modern [Web 3.0 app](https://github.com/EPA-WG/EPA-concept/blob/master/web-3.0.md)? The answer is none. The richness of frameworks and their quality, chaning the popularity over time does not allow to pick winning as any best one at the particular time frame will be replaced with newer soon enough. The Embeddable Progressive Web Application(EPA) seems to be the answer to make web compatible with multiple apps of different vendors, frameworks and their revisions.
 
 Recently I have faced a new challenge of integration many 3rd party sites into OSS collaboration site. The trouble came from so many APIs and UI customization. It is just too much work, making the development time unrealistic.
 
